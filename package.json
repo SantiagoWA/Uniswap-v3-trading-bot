@@ -1,5 +1,5 @@
 {
-  "name": "uni-bot",
+  "name": "uniswap-trading-bot",
   "license": "MIT",
   "devDependencies": {
     "@ethersproject/providers": "^5.7.2",
